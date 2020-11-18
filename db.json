@@ -1,0 +1,34 @@
+{
+  "workers": [
+    {
+      "id": 0,
+      "name": "SHavkat",
+      "lastName": "Athamov",
+      "middleName": "Otkirovich",
+      "department": "IT",
+      "gender": "Мужчина",
+      "position": "worker",
+      "dateofbirth": "1990-10-26"
+    },
+    {
+      "id": 2,
+      "name": "SHavkat3",
+      "lastName": "Athamov",
+      "middleName": "Otkirovich",
+      "department": "IT",
+      "gender": "Мужчина",
+      "position": "worker",
+      "dateofbirth": "1999-10-26"
+    },
+    {
+      "name": "test2",
+      "lastName": "2test",
+      "middleName": "test2",
+      "department": "IT",
+      "gender": "женщина",
+      "position": "testset2",
+      "dateofbirth": "1996-10-26",
+      "id": 4
+    }
+  ]
+}
